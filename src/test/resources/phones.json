@@ -1,0 +1,14 @@
+[
+  {
+    "manufacturer": "OnePlus",
+    "model": "OnePlus 10 Pro",
+    "year": "2022",
+    "price": 1000.99
+  },
+  {
+    "manufacturer": "OnePlus",
+    "model": "OnePlus 9 Pro",
+    "year": "2021",
+    "price": 900.99
+  }
+]
